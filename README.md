@@ -6,7 +6,7 @@ This project is a Spring Boot application that provides RESTful APIs to fetch ne
 ## Setup
 1. Clone the repository to your local machine.
 2. Open the project in your preferred IDE.
-3. Build and run the project using Maven or Gradle.
+3. Build and run the project using Gradle.
 
 ## Usage
 
@@ -50,4 +50,5 @@ This project is a Spring Boot application that provides RESTful APIs to fetch ne
 ### Filter Articles by Source Name
 - **Sample Request**: `http://localhost:8080/api/news/by-source?sourceName=The%20Irish%20Times&apikey=[YOUR_API_KEY]`
 
-*Note: Replace `[YOUR_API_KEY]` with your actual API key.*
+*Note: Replace `[YOUR_API_KEY]` and `[USER_AGENT`] with your actual API key and User Agent in the application.properties file.*
+      
