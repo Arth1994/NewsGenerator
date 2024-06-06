@@ -1,7 +1,7 @@
 # News API Project
 
 ## Description
-This project is a Spring Boot application that provides RESTful APIs to fetch news articles from an external news service. It includes functionalities to fetch articles based on search queries, find articles by their titles, and filter articles by source names. The project utilizes caching to improve performance and reduce external API calls.
+This project is a Spring Boot application that provides RESTful APIs to fetch news articles from an external news service. It includes functionalities to fetch articles based on search queries and limit, find articles by their titles, and filter articles by author names. The project utilizes caching to improve performance and reduce external API calls.
 
 ## Setup
 1. Clone the repository to your local machine.
